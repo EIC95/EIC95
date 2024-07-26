@@ -4,7 +4,7 @@
 
 ## About Me
 
-<p align="center">I'm El Hadji Ibrahima Cissé, and I've been fascinated by computing since middle school. My journey into programming began early, and I'm always eager to learn new languages and technologies. Currently, I'm diving into various programming languages and exploring different aspects of software development.</p>
+<p align="center">I'm El Hadji Ibrahima Cissé, and I've been fascinated by computing since middle school. My journey into programming began early, and I'm always impatient to learn new languages and technologies. Currently, I'm working on my portfolio.</p>
 
 ## Skills
 
