@@ -10,14 +10,14 @@
 
 Here are some of the technologies and skills I've been working with:
 
-- **Languages:**
+- **Languages:**  
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java)](https://skillicons.dev)
-- **Web Technologies:**
+- **Web Technologies:**  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev) 
-- **Frameworks & Libraries:**
+- **Frameworks & Libraries:**  
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)   
-- **Tools:**
+- **Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=github,mysql,)](https://skillicons.dev)
-- **Other:**
+- **Other:**  
 [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
 
