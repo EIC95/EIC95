@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 , I'm El Hadji Ibrahima Cissé
 
-<!--
-**EIC95/EIC95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Welcome to my GitHub profile! I'm a passionate first-year Software Engineering 👨🏿‍💻 student at Groupe SUP'INFO SENEGAL. Here’s a bit about me and what I do.</p>
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">I'm El Hadji Ibrahima Cissé, and I've been fascinated by computing since middle school. My journey into programming began early, and I'm always eager to learn new languages and technologies. Currently, I'm diving into various programming languages and exploring different aspects of software development.</p>
+
+## Skills
+
+Here are some of the technologies and skills I've been working with:
+
+- **Languages:**
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java)](https://skillicons.dev)
+- **Web Technologies:**
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev) 
+- **Frameworks & Libraries:**
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)   
+- **Tools:**
+[![My Skills](https://skillicons.dev/icons?i=github,mysql,)](https://skillicons.dev)
+- **Other:**
+[![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
+
