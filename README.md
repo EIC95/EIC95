@@ -21,3 +21,5 @@ Here are some of the technologies and skills I've been working with:
 - **Other:**  
 [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
 
+![EIC95 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=EIC95)
+
