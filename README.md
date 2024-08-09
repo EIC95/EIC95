@@ -21,5 +21,5 @@ Here are some of the technologies and skills I've been working with:
 - **Other:**  
 [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
 
-![EIC95's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=midnight-purple)
+![EIC95's GitHub stats](https://github-readme-stats.vercel.app/api?username=EIC95&show_icons=true&theme=midnight-purple)
 
