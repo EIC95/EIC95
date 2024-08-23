@@ -17,9 +17,9 @@ Here are some of the technologies and skills I've been working with:
 - **Frameworks & Libraries:**  
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)   
 - **Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=github,mysql,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,wordpress)](https://skillicons.dev)
 - **Other:**  
-[![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 ![EIC95's GitHub stats](https://github-readme-stats.vercel.app/api?username=EIC95&show_icons=true&theme=midnight-purple)
 
