@@ -11,7 +11,7 @@
 Here are some of the technologies and skills I've been working with:
 
 - **Languages:**  
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python)](https://skillicons.dev)
 - **Web Technologies:**  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev) 
 - **Frameworks & Libraries:**  
