@@ -11,7 +11,7 @@ Here are some of the technologies and skills I've been working with:
 - **Web Technologies:**  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev) 
 - **Frameworks & Libraries:**  
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)   
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,react)](https://skillicons.dev)   
 - **Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=github,wordpress)](https://skillicons.dev)
 - **Other:**  
