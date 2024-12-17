@@ -1,6 +1,6 @@
 # Hi 👋 , I'm El Hadji Ibrahima Cissé
 
-<p align="center">Welcome to my GitHub profile! I'm a passionate first-year Software Engineering 👨🏿‍💻 student at Groupe SUP'INFO SENEGAL,  and I've been fascinated by computing since middle school. My journey into programming began early, and I'm always impatient to learn new languages and technologies. You can find my website <a href="https://eic.codes">here</a>.</p>
+<p align="center">Welcome to my GitHub profile! I'm a passionate second-year Software Engineering 👨🏿‍💻 student at Groupe SUP'INFO SENEGAL,  and I've been fascinated by computing since middle school. My journey into programming began early, and I'm always impatient to learn new languages and technologies. You can find my website <a href="https://eic.codes">here</a>.</p>
 
 ## Skills
 
