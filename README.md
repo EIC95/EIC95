@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ enjoy solving real-life problems with IT<br>📚 I'm currently learning tailwind css<br>🎯 Goals: Work in the AI sphere<br>🎲 Fun fact: I love Ferrari</p>
+<p align="left">✨ enjoy solving real-life problems with IT<br>📚 I'm currently learning mobile app development<br>🎯 Goals: Work in the AI sphere<br>🎲 Fun fact: I love Ferrari</p>
 
 ###
 
