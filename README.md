@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ibrahima Cissé and I'm a full stack developer, from Sénégal.</p>
+<p align="left">My name is Ibrahima Cissé and I'm a software engineering student, from Sénégal.</p>
 
 ###
 
