@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ enjoy AI and solving real-life problems with IT<br>📚 I'm currently a second-year software engineering student.<br>🎲 Fun fact: I love Ferrari</p>
+<p align="left">✨ enjoy AI and solving real-life problems with IT<br>📚 I'm currently a third-year software engineering student.<br>🎲 Fun fact: I love Ferrari</p>
 
 ###
 
